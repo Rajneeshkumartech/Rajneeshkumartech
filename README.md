@@ -39,8 +39,8 @@ My aspirations in web development include:
 
 I'm always open to connecting with fellow developers, learning from others, and collaborating on interesting projects. Feel free to reach out!
 
-[[LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rk-rajneesh-kumar)
-[[Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](rajneeshkumar.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rk-rajneesh-kumar)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](rajneeshkumar.tech@gmail.com)
 
 
 ## 📊 My GitHub Stats
