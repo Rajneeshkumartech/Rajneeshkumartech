@@ -14,6 +14,7 @@ I'm actively exploring and honing my skills in the following areas:
     * CSS3
     * JavaScript (ES6+)
     * React Js
+    * Node Js
       
 * **Version Control:**
     * Git & GitHub
