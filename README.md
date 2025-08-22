@@ -15,6 +15,8 @@ I'm actively exploring and honing my skills in the following areas:
     * JavaScript (ES6+)
     * React Js
     * Node Js
+    * Express Js
+    * Mongo DB
       
 * **Version Control:**
     * Git & GitHub
