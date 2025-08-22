@@ -9,9 +9,11 @@ Welcome to my GitHub profile! I'm Rajneesh Kumar, a passionate and driven indivi
 
 I'm actively exploring and honing my skills in the following areas:
 
-* **Frontend Development:**
+* **Full Stack Web Development:**
     * HTML5
     * CSS3
+    * Tailwind CSS
+    * BootStrap
     * JavaScript (ES6+)
     * React Js
     * Node Js
